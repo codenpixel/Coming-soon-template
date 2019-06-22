@@ -6,7 +6,7 @@ Author [sharebootstrap](https://sharebootstrap.com)
 
 ## Demo
 
-[See it live](https://sharebootstrap.com/demo/commingsoon-1)
+[See it live](https://sharebootstrap.com/demo/soon-1)
 
 
 
