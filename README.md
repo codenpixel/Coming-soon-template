@@ -1,4 +1,4 @@
-# Comming-soon-template
+# Coming-soon-template
 Free bootstrap comming soon template
 
 Author [sharebootstrap](https://sharebootstrap.com)
